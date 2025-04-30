@@ -1,7 +1,10 @@
+# For allowing command line arguments 
 import sys
 import os
-import re  # Add import for regular expressions
+# Add import for regular expressions
+import re 
 from pathlib import Path
+# For user interface
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QPushButton, QVBoxLayout, QHBoxLayout,
                            QWidget, QFileDialog, QLabel, QComboBox, QCheckBox, QProgressBar,
                            QTextEdit, QSplitter, QMessageBox, QGroupBox, QFrame, QSizePolicy,
