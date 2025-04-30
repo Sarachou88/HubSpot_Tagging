@@ -1,0 +1,32 @@
+Timestamp	Process	TID	Area	Category	EventID	Level	Message	Correlation
+04/29/2025 13:49:28.337	EXCEL (0x21D0)	0x85C8	Microsoft Excel	Next user licensing	9g9kv	Monitorable	DoesDirectoryExist - Directory does not exist and will not be created {"Path":"C:\\ProgramData\\Microsoft\\Office\\Licenses\\5\\Perpetual"}	
+04/29/2025 13:49:28.337	EXCEL (0x21D0)	0x85C8	Microsoft Excel	Next user licensing	9g9kv	Monitorable	DoesDirectoryExist - Directory does not exist and will not be created {"Path":"C:\\Users\\mjpvk\\AppData\\Local\\Microsoft\\Office\\Licenses\\5\\Grace\\1"}	
+04/29/2025 13:49:29.380	EXCEL (0x21D0)	0x85D4	Microsoft Excel	Document AutoCreate Locations	bve2p	Medium	Trying to get default document URL for service {"DocumentFolderUrl":"https://ormitbv-my.sharepoint.com/personal/marc_van_kampen_ormittalent_be/Documents"}	
+04/29/2025 13:49:29.380	EXCEL (0x21D0)	0x85D4	Microsoft Excel	ODP Sandbox Activation	5d7xn	Monitorable	Task to create OsfControl for PreWarm WV2 {"PredictedDelayForPreWarmWV2":5}	
+04/29/2025 13:49:29.380	EXCEL (0x21D0)	0x7F40	Microsoft Excel	Document AutoCreate Locations	bve2p	Medium	Trying to get default document URL for service {"DocumentFolderUrl":"https://ormitbv-my.sharepoint.com/personal/marc_van_kampen_ormittalent_be/Documents"}	
+04/29/2025 13:49:29.430	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{1}"}	
+04/29/2025 13:49:29.436	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{2}"}	
+04/29/2025 13:49:29.436	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{3}"}	
+04/29/2025 13:49:29.436	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{4}"}	
+04/29/2025 13:49:29.439	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{5}"}	
+04/29/2025 13:49:29.439	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{6}"}	
+04/29/2025 13:49:29.439	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{7}"}	
+04/29/2025 13:49:29.445	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{8}"}	
+04/29/2025 13:49:29.445	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{9}"}	
+04/29/2025 13:49:29.445	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{10}"}	
+04/29/2025 13:49:29.445	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{11}"}	
+04/29/2025 13:49:29.454	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{12}"}	
+04/29/2025 13:49:29.454	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{13}"}	
+04/29/2025 13:49:29.454	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{14}"}	
+04/29/2025 13:49:29.456	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{15}"}	
+04/29/2025 13:49:29.458	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{16}"}	
+04/29/2025 13:49:29.458	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{17}"}	
+04/29/2025 13:49:29.458	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{18}"}	
+04/29/2025 13:49:29.458	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{19}"}	
+04/29/2025 13:49:29.460	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{20}"}	
+04/29/2025 13:49:29.462	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{21}"}	
+04/29/2025 13:49:29.462	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Disco	4vzbo	Medium	SHAM file does not exist, so we will not open it {"Path":"O:{22}"}	
+04/29/2025 13:49:29.462	EXCEL (0x21D0)	0x6FBC	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{23}"}	
+04/29/2025 13:49:30.329	EXCEL (0x21D0)	0x233C	Microsoft Excel	Licensing client liblet	a46x2	Medium	HeartbeatAdapter::GetHeartbeatCacheFile - HeartbeatAdapter: Cache file location {"HeartbeatCacheFilePath":"C:\\ProgramData\\Microsoft\\Office\\Heartbeat"}	
+04/29/2025 13:49:34.391	EXCEL (0x21D0)	0x233C	Microsoft Excel	ODP Sandbox Activation	5d7xn	Monitorable	Task to cleanUp the OsfControl for PreWarm WV2 {"PredictedDelayForPreWarmWV2":300}	
+04/29/2025 13:49:41.890	EXCEL (0x21D0)	0x6354	Microsoft Excel	Syzygy	912b2	Medium	Destroying namespace. {"Path":"O:{7}"}	
